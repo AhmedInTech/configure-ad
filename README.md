@@ -6,9 +6,9 @@
 This tutorial outlines the implementation of Active Directory within Azure Virtual Machines.<br />
 
 
-<h2>Video Demonstration</h2>
+<h2>Documentation</h2>
 
-- ### [YouTube: How to Deploy Active Directory within Azure Compute](https://www.youtube.com)
+- ### [Word Document: How to Deploy Active Directory within Azure](https://docs.google.com/document/d/14wZIarrR6CWLjALNmtvinL6lijPlRxVkTNbPPTYz__c/edit)
 
 <h2>Environments and Technologies Used</h2>
 
