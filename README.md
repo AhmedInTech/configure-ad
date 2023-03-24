@@ -24,8 +24,7 @@ This tutorial outlines the implementation of Active Directory within Azure Virtu
 
 <h2>Objectives</h2>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+- create virtual machines in azure
+- install active directory
+- create users and attempt login
 
